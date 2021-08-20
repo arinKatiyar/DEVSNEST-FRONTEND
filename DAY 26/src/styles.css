@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1{
+  text-align: center
+}
+.form{
+  /*display:flex;*/
+  width: 170px;
+  margin: 0 auto ;
+}
+input{
+  height:35px
+}
