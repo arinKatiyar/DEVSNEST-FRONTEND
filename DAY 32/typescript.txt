@@ -1,0 +1,6 @@
+install typescript globally:
+npm install -g typescript. 
+This will install the latest version (currently 4.4).
+
+To start a new Create React App project with TypeScript, you can run:
+npx create-react-app my-app --template typescript
